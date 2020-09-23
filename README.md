@@ -1,13 +1,15 @@
 # YOLOv3
-Keras(TF backend) implementation of yolo v3 objects detection. 
+Real Time Object Detection using YOLOv3, Tensorflow, Keras and OpenCV
 
 According to the paper [YOLOv3: An Incremental Improvement](https://pjreddie.com/media/files/papers/YOLOv3.pdf).
 
-## Requirement
-- OpenCV 3.4
-- Python 3.6    
-- Tensorflow-gpu 1.5.0  
-- Keras 2.1.3
+## Required Modules
+- OpenCV
+- Python    
+- Tensorflow  
+- Keras
+- Numpy
+- Matplotlib
 
 
 
