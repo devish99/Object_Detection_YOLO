@@ -10,7 +10,8 @@ Real Time Object Detection using YOLOv3, Tensorflow, Keras and OpenCV
 - Numpy
 - Matplotlib
 
-
+## Download weights for the model
+https://drive.google.com/drive/folders/1DSIcph3kF6H7nRq4oB5Ps9ZyD7aO7j3s?usp=sharing
 
 ## Reference
 
