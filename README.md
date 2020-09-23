@@ -15,12 +15,11 @@ https://drive.google.com/drive/folders/1DSIcph3kF6H7nRq4oB5Ps9ZyD7aO7j3s?usp=sha
 
 ## Reference
 
+[YOLOv3: An Incremental Improvement](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
 	@article{YOLOv3,  
 	  title={YOLOv3: An Incremental Improvement},  
 	  author={J Redmon, A Farhadi },
 	  year={2018}
-	  
-[YOLOv3: An Incremental Improvement](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
 
 
 
