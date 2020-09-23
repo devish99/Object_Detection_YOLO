@@ -1,5 +1,5 @@
-## Neural Network: 
+### Neural Network: 
 Darknet53
 
-## Training Model: 
+### Training Model: 
 YOLOv3
