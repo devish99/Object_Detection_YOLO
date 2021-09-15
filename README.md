@@ -1,5 +1,5 @@
 # YOLOv3
-Real Time Object Detection using YOLOv3, Tensorflow, Keras and OpenCV
+Real Time Object Detection And Classification using YOLOv3, Tensorflow, Keras and OpenCV
 
 
 ## Required Modules
