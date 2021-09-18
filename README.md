@@ -10,8 +10,8 @@ Real Time Object Detection And Classification using YOLOv3, Tensorflow, Keras an
 - Numpy
 - Matplotlib
 
-<!-- ## Download weights for the model
-https://drive.google.com/drive/folders/1DSIcph3kF6H7nRq4oB5Ps9ZyD7aO7j3s?usp=sharing -->
+ ## Download weights for the model
+https://drive.google.com/file/d/1rBig-_ieGKhoM9ydBHFxpwDcfj7iNW5U/view?usp=sharing 
 
 ## Reference
 
