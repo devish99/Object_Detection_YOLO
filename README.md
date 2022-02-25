@@ -12,10 +12,10 @@ Real Time Object Detection And Classification using YOLOv3, Tensorflow, Keras an
 
  ## Download & extract the weights using
 https://pjreddie.com/media/files/yolov3.weights
-## or
-https://drive.google.com/file/d/1rBig-_ieGKhoM9ydBHFxpwDcfj7iNW5U/view?usp=sharing 
-## or just run
-wget https://pjreddie.com/media/files/yolov3.weights
+or
+https://drive.google.com/file/d/1rBig-_ieGKhoM9ydBHFxpwDcfj7iNW5U/view?usp=sharing
+or just run
+`wget https://pjreddie.com/media/files/yolov3.weights`
 
 ## Reference
 
